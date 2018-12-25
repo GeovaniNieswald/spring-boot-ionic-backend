@@ -7,5 +7,5 @@ import com.cursomc.geovaninieswald.domain.Cliente;
 
 @Repository
 public interface ClienteRepository extends JpaRepository<Cliente, Integer> {
-	
+
 }

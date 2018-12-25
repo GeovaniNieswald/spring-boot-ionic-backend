@@ -7,5 +7,5 @@ import com.cursomc.geovaninieswald.domain.Estado;
 
 @Repository
 public interface EstadoRepository extends JpaRepository<Estado, Integer> {
-	
+
 }

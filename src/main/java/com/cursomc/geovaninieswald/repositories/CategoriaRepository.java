@@ -7,5 +7,5 @@ import com.cursomc.geovaninieswald.domain.Categoria;
 
 @Repository
 public interface CategoriaRepository extends JpaRepository<Categoria, Integer> {
-	
+
 }

@@ -7,5 +7,5 @@ import com.cursomc.geovaninieswald.domain.Cidade;
 
 @Repository
 public interface CidadeRepository extends JpaRepository<Cidade, Integer> {
-	
+
 }

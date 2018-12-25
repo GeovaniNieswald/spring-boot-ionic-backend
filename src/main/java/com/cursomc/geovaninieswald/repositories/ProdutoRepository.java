@@ -7,5 +7,5 @@ import com.cursomc.geovaninieswald.domain.Produto;
 
 @Repository
 public interface ProdutoRepository extends JpaRepository<Produto, Integer> {
-	
+
 }

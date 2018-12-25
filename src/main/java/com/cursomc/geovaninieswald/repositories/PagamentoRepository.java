@@ -7,5 +7,5 @@ import com.cursomc.geovaninieswald.domain.Pagamento;
 
 @Repository
 public interface PagamentoRepository extends JpaRepository<Pagamento, Integer> {
-	
+
 }
