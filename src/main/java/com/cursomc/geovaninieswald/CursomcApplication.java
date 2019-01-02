@@ -11,6 +11,8 @@ public class CursomcApplication implements CommandLineRunner {
 		SpringApplication.run(CursomcApplication.class, args);
 	}
 
+	//DESGRAÇA
+	
 	@Override
 	public void run(String... args) throws Exception {
 	}
